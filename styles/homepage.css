@@ -1,0 +1,27 @@
+:root{
+    --primary: rgb(255, 238, 0);;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.main-title{
+    text-align: center;
+    background-color: var(--primary);
+}
+
+.recipes-list{
+    list-style-type: none;
+}
+
+.recipes-list a{
+    text-decoration: none;
+    color: grey;
+}
+
+.recipes-list a:hover{
+    color: black;
+}

@@ -1,0 +1,20 @@
+:root{
+    --primary: rgb(255, 238, 0);;
+}
+.title{
+    text-align: center;
+    font-weight: 800;
+    background-color: var(--primary);
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.food-image{
+    width: 50%;
+    height: auto;
+}
+.subheading{
+    background-color: var(--primary);
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-left: 10px;
+}
